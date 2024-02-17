@@ -45,7 +45,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="p-0 m-0 w-1/2 shadow-xl lg:w-1/6 lg:scale-125 md:w-1/5">
+    <div className="p-0 m-0 w-3/5 shadow-xl lg:w-1/6 lg:scale-125 md:w-1/5">
       <div className="flex flex-col scale-125 bg-secound rounded-lg overflow-hidden">
         <div className="px-4 py-5">
           <input
