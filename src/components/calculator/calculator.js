@@ -57,7 +57,7 @@ const Calculator = () => {
         </div>
 
         <div className="bg-primary shadow-md">
-          <div className="flex flex-wrap w-full gap-7 pt-5 justify-center pb-4 ">
+          <div className="flex flex-wrap w-full gap-5 lg:gap-7 pt-5 justify-center pb-4 ">
             <button
               className="transition-all ease-in-out p-2 rounded-full hover:bg-secound"
               onClick={() => numb("1")}
